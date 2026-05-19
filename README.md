@@ -11,3 +11,5 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the app.py
+
+ECR Repository URI: 261142222020.dkr.ecr.us-east-1.amazonaws.com/mlproj
